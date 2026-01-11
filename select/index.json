@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "硝子の少年",
+  "base_artist": "KinKi Kids",
+  "createdAt": "2026-01-11T09:01:58.589807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "硝子の少年 (Kinki Kid's)",
+      "artist": "Vega☆オルゴール",
+      "has_synced": false,
+      "path": "select/01_硝子の少年_(Kinki_Kid's)_Vega☆オルゴール.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "硝子の少年",
+      "artist": "KinKi Kids",
+      "has_synced": true,
+      "path": "select/02_硝子の少年_KinKi_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "硝子の少年",
+      "artist": "KinKi Kids",
+      "has_synced": false,
+      "path": "select/pl_01_硝子の少年_KinKi_Kids.txt"
+    }
+  ]
+}
